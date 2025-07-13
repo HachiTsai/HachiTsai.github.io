@@ -1,5 +1,8 @@
 title: "Hachi Tsai"
-description: "跨語言與技術的自動化旅程｜DCS, PLC, Python, Japanese "
+description: |
+  跨語言與技術的自動化旅程
+  automation：DCS, PLC, Python
+  Language：Japanese
 baseurl: "" # 如果你不是放在子目錄下，保持空白
 url: "https://hachitsai.github.io"
 
