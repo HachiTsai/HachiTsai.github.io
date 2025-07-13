@@ -3,7 +3,12 @@ description: "跨語言與技術的自動化旅程｜DCS, PLC, Python, 日語翻
 baseurl: "" # 如果你不是放在子目錄下，保持空白
 url: "https://hachitsai.github.io"
 
-theme: jekyll-theme-cayman # 可替換為你喜歡的主題，例如 minimal, slate, merlot 等
+remote_theme: pages-themes/cayman@v0.2.0 # 可替換為你喜歡的主題，例如 minimal, slate, merlot 等
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
 
 # 以下是一些自定義選項，視主題支援度而定
 author:
