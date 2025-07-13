@@ -21,9 +21,6 @@ social:
   github: "https://github.com/HachiTsai"
   twitter: "" # 如果沒有可以留空
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 markdown: kramdown
 
