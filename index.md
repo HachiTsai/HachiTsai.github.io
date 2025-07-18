@@ -26,7 +26,7 @@ industrial-automation-learning/
 │   ├── Mitsubishi-GXWorks2.md
 │   ├── Ladder-examples/
 │   └── PLC-projects/
-├── iFIX/
+├── HMI/
 │   ├── iFix.md
 │   └── Screenshots/
 ├── DCS/
@@ -37,6 +37,13 @@ industrial-automation-learning/
 │   ├── Learning-Note/
 │   ├── Modbus-simulator.py
 │   └── OPC-UA-client.py
+│
+├── BLOCKCHAIN/
+│   ├── Smart-Contract/
+│   └── Tracking-Zone
+│
+│
+│
 └── Resources/
     ├── 工控常用通訊協定.md
     └── 推薦學習資源.md
