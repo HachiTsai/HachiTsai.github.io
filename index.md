@@ -27,7 +27,7 @@ industrial-automation-learning/
 │   ├── Ladder-examples/
 │   └── PLC-projects/
 ├── HMI/
-│   ├── iFix.md
+│   ├── iFIX.md
 │   └── Screenshots/
 ├── DCS/
 │   ├── Hitachi-EXN01A-concepts.md
