@@ -23,16 +23,18 @@ title: Hachi 的技術筆記
 industrial-automation-learning/
 ├── README.md                  ← 專案總覽與學習目標
 ├── PLC/
-│   ├── Mitsubishi-GXWorks3.md
+│   ├── Mitsubishi-GXWorks2.md
 │   ├── Ladder-examples/
 │   └── PLC-projects/
-├── HMI/
-│   ├── GT-Designer-notes.md
+├── iFIX/
+│   ├── iFix.md
 │   └── Screenshots/
 ├── DCS/
-│   ├── DCS-concepts.md
-│   └── System-architecture/
+│   ├── Hitachi-EXN01A-concepts.md
+│   ├── System-architecture/
+│   └── Project/
 ├── Python-Automation/
+│   ├── Learning-Note/
 │   ├── Modbus-simulator.py
 │   └── OPC-UA-client.py
 └── Resources/
