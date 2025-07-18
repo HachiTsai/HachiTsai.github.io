@@ -5,7 +5,7 @@ title: Hachi 的技術筆記
 
 # 👋 歡迎來到我的網頁
 
-我是 Hachi Tsai，一位致力於自動化與語言融合的工程人才。
+我是 Hachi Tsai，一位致力於自動化與語言融合的工程師。
 
 - 擁有 DCS、PLC、Python 技能
 - JLPT N1 認證，7 年日語教學與翻譯經驗
