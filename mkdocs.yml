@@ -1,0 +1,59 @@
+site_name: Hachi 的工控技術筆記
+site_url: https://hachi.github.io/dcs-learning/
+repo_url: https://github.com/hachi/dcs-learning
+repo_name: hachi/dcs-learning
+
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+nav:
+  - 👋 首頁總覽: index.md
+  - DCS 學習整理:
+      - IO List 解構: io-list.md
+      - 控制邏輯筆記: concepts.md
+      - 現場實例記錄: field-log.md
+      - 技術日文筆記: japanese.md
+  - PLC 技術:
+      - GX Works 操作筆記: PLC/Mitsubishi-GXWorks2.md
+      - Ladder 範例: PLC/Ladder-examples/index.md
+      - PLC 專案集: PLC/PLC-projects/index.md
+  - HMI 教學:
+      - iFIX 筆記: HMI/iFIX.md
+      - 畫面截圖展示: HMI/Screenshots/index.md
+  - Python 自動化模擬:
+      - 技術筆記: Python-Automation/Learning-Note/index.md
+      - Modbus 模擬器: Python-Automation/Modbus-simulator.md
+      - OPC UA Client: Python-Automation/OPC-UA-client.md
+  - 區塊鏈技術:
+      - 智能合約應用: BLOCKCHAIN/Smart-Contract/index.md
+      - 追蹤區塊模組: BLOCKCHAIN/Tracking-Zone/index.md
+  - 資源整理:
+      - 通訊協定筆記: Resources/工控常用通訊協定.md
+      - 推薦學習資源: Resources/推薦學習資源.md
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - tables
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hachi
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/hachi-tsai
